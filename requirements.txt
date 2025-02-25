@@ -4,7 +4,7 @@ pandas
 Pillow
 pytest
 Requests
-scikit_learn==1.1.2
+scikit_learn
 scipy
 torch
 tqdm
